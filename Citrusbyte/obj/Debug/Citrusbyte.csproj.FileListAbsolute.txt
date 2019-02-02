@@ -1,0 +1,7 @@
+C:\Users\alvar\OneDrive\Documents\git\Citrusbyte\Citrusbyte\obj\Debug\Citrusbyte.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documents\git\Citrusbyte\Citrusbyte\bin\Debug\Citrusbyte.exe.config
+C:\Users\alvar\OneDrive\Documents\git\Citrusbyte\Citrusbyte\bin\Debug\Citrusbyte.exe
+C:\Users\alvar\OneDrive\Documents\git\Citrusbyte\Citrusbyte\bin\Debug\Citrusbyte.pdb
+C:\Users\alvar\OneDrive\Documents\git\Citrusbyte\Citrusbyte\obj\Debug\Citrusbyte.exe
+C:\Users\alvar\OneDrive\Documents\git\Citrusbyte\Citrusbyte\obj\Debug\Citrusbyte.pdb
+C:\Users\alvar\OneDrive\Documents\git\Citrusbyte\Citrusbyte\obj\Debug\Citrusbyte.csprojResolveAssemblyReference.cache
